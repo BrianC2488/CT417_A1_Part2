@@ -18,7 +18,7 @@ public class mockClass {
             student s4 = new student("Edward Coughlan",33,"4/07/1985","CSIT");
             student s5 = new student("Jack Connolly",18,"11/08/2000","EEE");
             student s6 = new student("Ryan Fitzpatrick",24,"25/09/1994","EEE");
-            student s7 = new student("Martin Dunne",21,"25/10/1997","Dunnes");
+            student s7 = new student("Martin Dunne",21,"25/10/1997","CSIT");
 
                
             
